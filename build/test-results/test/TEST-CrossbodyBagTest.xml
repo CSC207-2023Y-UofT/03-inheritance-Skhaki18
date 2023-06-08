@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrossbodyBagTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-08T22:43:49" hostname="samirs-MBP-2" time="0.013">
+  <properties/>
+  <testcase name="TestToString" classname="CrossbodyBagTest" time="0.012"/>
+  <testcase name="TestEnhance" classname="CrossbodyBagTest" time="0.0"/>
+  <testcase name="TestGetNumberOfStraps" classname="CrossbodyBagTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
